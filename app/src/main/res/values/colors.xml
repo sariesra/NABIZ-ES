@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5286C5</color><!--isim yazılı kısım-->
+    <color name="colorPrimaryDark">#4972A5</color><!--ve appbar-->
+    <color name="colorAccent">#030D64</color>
+</resources>
+
+<!--
+
+    <color name="colorPrimary">#0662A8</color>
+    <color name="colorPrimaryDark">#12123A</color>
+    <color name="colorAccent">#78A2EC</color><color name="colorPrimaryDark">#0662A8</color>
+
+
+-->

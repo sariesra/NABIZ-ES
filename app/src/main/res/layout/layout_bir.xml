@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/layoutbir_content"
+    android:orientation="vertical">
+
+    <TextureView
+        android:id="@+id/texture"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignStart="@+id/progressBar"
+        android:layout_alignEnd="@+id/progressBar"
+        android:layout_alignBottom="@+id/progressBar"
+        android:layout_marginStart="116dp"
+        android:layout_marginEnd="115dp"
+        android:layout_marginBottom="40dp" />
+
+    <TextView
+        android:id="@+id/nabiz_deger_kutusu"
+        android:layout_width="154dp"
+        android:layout_height="120dp"
+        android:layout_alignEnd="@+id/progressBar"
+        android:layout_alignBottom="@+id/progressBar"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="center|center_horizontal|center_vertical"
+        android:layout_marginStart="149dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="85dp"
+        android:background="@android:color/transparent"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="*"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="80sp" />
+
+    <TextView
+        android:id="@+id/bpm_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/progressBar"
+        android:layout_alignBottom="@+id/progressBar"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="center|center_horizontal|center_vertical"
+        android:layout_marginStart="226dp"
+        android:layout_marginEnd="47dp"
+        android:layout_marginBottom="92dp"
+        android:background="@android:color/transparent"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="BPM"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="345dp"
+        android:layout_below="@+id/progressBar"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="391dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="@string/biliyormuydunuz"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/textView_bilgi_meti"
+            android:layout_width="346dp"
+            android:layout_height="284dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="70dp"
+            android:text="@string/metin1"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="391dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:textAlignment="center"
+            android:textColor="#FF6D00"
+            android:textSize="18sp"
+            android:textStyle="italic" />
+    </FrameLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="80.5dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="80.5dp"
+        android:indeterminateDrawable="@drawable/progress" />
+
+</RelativeLayout>

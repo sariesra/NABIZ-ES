@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="448ab0d1-3a11-4800-9e41-8f079c21249f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="981541781">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jwetherell/heart_rate_monitor/ImageProcessing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+              <folding>
+                <element signature="docComment;method#decodeYUV420SPtoRedAvg#0;class#ImageProcessing#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jwetherell/heart_rate_monitor/HeartRateMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="130" lean-forward="true" selection-start-line="122" selection-start-column="11" selection-end-line="130" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#HeartRateMonitor#0" />
+                <element signature="method#onResume#0;class#HeartRateMonitor#0" />
+                <element signature="method#onPause#0;class#HeartRateMonitor#0" />
+                <element signature="class#6429:7710" />
+                <element signature="method#getSmallestPreviewSize#0;class#HeartRateMonitor#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jwetherell/heart_rate_monitor/HeartbeatView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Uzun Takım Lacivert</find>
+      <find>yuv420sp</find>
+      <find>onPreviewFrame</find>
+      <find>ImageProcessing</find>
+      <find>HeartbeatView</find>
+      <find>decodeYUV420SPtoRedSum</find>
+      <find>beats</find>
+      <find>heart_rate_monitor</find>
+      <find>TextView</find>
+      <find>data</find>
+      <find>decodeYUV420SPtoRedAvg</find>
+      <find>imgAvg</find>
+      <find>text</find>
+      <find>width</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/jwetherell/heart_rate_monitor/HeartbeatView.java" />
+        <option value="$PROJECT_DIR$/src/com/jwetherell/heart_rate_monitor/HeartRateMonitor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-47" />
+    <option name="y" value="93" />
+    <option name="width" value="1346" />
+    <option name="height" value="655" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="android-heart-rate-monitor-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android-heart-rate-monitor-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android-heart-rate-monitor-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android-heart-rate-monitor-master" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android-heart-rate-monitor-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android-heart-rate-monitor-master" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android-heart-rate-monitor-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android-heart-rate-monitor-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="andro

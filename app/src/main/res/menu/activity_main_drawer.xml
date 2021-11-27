@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_olcum"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="@string/Ölcum" />
+        <item
+            android:id="@+id/nav_gecmis"
+            android:icon="@android:drawable/ic_menu_recent_history"
+            android:title="@string/gecmis" />
+        <item
+            android:id="@+id/nav_yardim"
+            android:icon="@android:drawable/ic_menu_help"
+            android:title="@string/Yardım" />
+    </group>
+
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NABIZ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NABIZ</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="Ölcum">Ölçüm</string>
+    <string name="gecmis">Geçmiş</string>
+    <string name="Yardım">Yardım</string>
+    <string name="bos" />
+    <string name="biliyormuydunuz">Biliyor muydunuz?</string>
+    <string name="nabiz_default">__</string>
+    <string name="metin1">Normalde kalp atış hızı 60 ile 100 arasındadır. Düzenli spor ya da sürekli egzersiz yapanlarda kalp atış hızı bir dakikada 60\'ın altında olabilir.</string>
+    <string name="metin2">Dinlenme sırasında, egzersiz boyunca veya yoğun bir egzersizin hemen ardından kalp atış hızınızı kontrol etmek, size form düzeyinizle ilgili önemli bilgiler verebilir.</string>
+    <string name="metin3">Kalp atış hızınız, sinirlilik, sıvı kaybı veya aşırı efor nedeniyle aniden yükselebilir.</string>
+    <string name="metin4">Kalp atış hızınız, sinirlilik, sıvı kaybı veya aşırı efor nedeniyle aniden yükselebilir.</string>
+    <string name="metin5">Nabız olarak nitelendirilen kalp atış hızı, cinsiyete, yaşa, fiziksel ve duygusal duruma, spor yapma alışkanlığına, kullanılan ilaçlara hatta havanın sıcaklığı gibi birçok faktöre bağlı olarak değişebilmektedir.</string>
+</resources>
+
+
